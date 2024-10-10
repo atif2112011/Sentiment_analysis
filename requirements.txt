@@ -4,3 +4,4 @@ tensorflow
 librosa
 pydantic
 numpy
+python-multipart
